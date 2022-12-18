@@ -7,6 +7,7 @@
     <artifactId>task</artifactId>
     <version>1.0</version>
 
+
     <repositories>
         <repository>
             <id>repsy</id>
