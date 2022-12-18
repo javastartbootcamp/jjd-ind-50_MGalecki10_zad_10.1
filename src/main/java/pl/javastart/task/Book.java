@@ -56,6 +56,6 @@ public class Book {
                 "title='" + title + '\'' +
                 ", year=" + year +
                 ", pages=" + pages +
-                '}';
+                "}\n";
     }
 }
